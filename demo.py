@@ -11,4 +11,4 @@ object2 = Entity(ip2)
 object1.Transmit(object2, "Hello World!")
 print(object2.Receive(object1))
 
-# you can also stuff Entity inside list so you can put a bunch of Entity inside a list and you access can it by Bunch[index].Transmit whatever you wnat to do
+# you can also stuff Entity inside list so you can put a bunch of Entity inside a list and you can access it by Bunch[index].Transmit or whatever you want to do with that
